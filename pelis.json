@@ -1,0 +1,20 @@
+[{
+    "title": "capitan america, el primer vengador",
+    "rating": 4,
+    "tags": ["accion", "suspenso", "historia"]
+  },
+  {
+    "title": "ironman",
+    "rating": 3,
+    "tags": ["ciencia ficcion", "accion", "superheroes"]
+  },
+  {
+    "title": "bad boys",
+    "rating": 2,
+    "tags": ["accion", "suspenso", "policial"]
+  },
+  {
+    "title": "en busca de la felicidad",
+    "rating": 1,
+    "tags": ["nueva", "drama"]
+  }]
